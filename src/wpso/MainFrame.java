@@ -235,7 +235,7 @@ public class MainFrame extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JTabbedPane jTabbedPane1;
     private javax.swing.JTextArea jTextArea2;
-    private GUI.LogTransPanel logTransPanel1;
+    private wpso.GUI.LogTransPanel logTransPanel1;
     private GUI.SzGaussaPanel szGaussaPanel1;
     private GUI.SzImpulsowyPanel szImpulsowyPanel1;
     // End of variables declaration//GEN-END:variables
